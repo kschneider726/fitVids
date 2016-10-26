@@ -1,1 +1,3 @@
-# kschneider726.github.io/fitVids
+# fitVids
+
+http://kschneider726.github.io/fitVids
